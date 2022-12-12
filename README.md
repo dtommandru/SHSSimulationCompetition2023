@@ -2,7 +2,7 @@
 
 
     .
-    ├── BestFitBinPacking                   # Compiled files (alternatively `dist`)
+    ├── BestFitBinPacking               #Folder for model, schedule, and experimenter output for BinPackingBestFit Scheduling Technique
         ├──BestFit.xlsx
         ├──BestFitBinPacking.fsm
         ├──BPBF.sqlite
@@ -10,12 +10,12 @@
         ├──BPBFSc293.sqlite
         ├──BPBFv1.sqlite
         ├──bebug.log
-    ├── LongestCaseFirst                    # Documentation files (alternatively `doc`)
+    ├── LongestCaseFirst                #Folder for model, schedule, and experimenter output for Longest Case First Scheduling Technique
         ├──LCF.xlsx
         ├──LCF.fsm
         ├──LCF.sqlite
         ├──bebug.log
-    ├── Notebooks                     # Source files (alternatively `lib` or `app`)
+    ├── Notebooks                       # Source files (alternatively `lib` or `app`)
         ├──BestFitBinPacking
             ├──BFBP Analytics.ipynb
             ├──BFBPHighThroughput.xlsx
@@ -36,12 +36,12 @@
         ├──Scenario Generator.ipynb
         ├──BPBFv1.sqlite
         ├──Scenarios.xlsx
-    ├── RoundRobin                    # Automated tests (alternatively `spec` or `tests`)
+    ├── RoundRobin                          #Folder for model, schedule, and experimenter output for Round Robin Scheduling Technique
         ├──RR_LCF.xlsx
         ├──RR.fsm
         ├──RR.sqlite
         ├──bebug.log
-    ├── ShortestJobFirst                   # Tools and utilities
+    ├── ShortestJobFirst                #Folder for model, schedule, and experimenter output for Shortest Job First Scheduling Technique
         ├──SJF.xlsx
         ├──SJF.fsm
         ├──SJF.sqlite
