@@ -46,6 +46,3 @@
         ├──SJF.fsm
         ├──SJF.sqlite
         ├──bebug.log
-
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`
